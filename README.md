@@ -6,6 +6,8 @@ If you want to clone this project you have to install all NPM's with 'npm instal
 
 This app uses OpenWeatherAPI for data and show these data in the screen.
 
+for live : https://weather-forecast-application-xx78.onrender.com 
+
 Drop Page : 
 ----------------------
 
